@@ -16,7 +16,6 @@ body {
 
 .row {margin: 0 -5px;}
 
-/* Очистить поплавки после столбцов */
 .row:after {
   content: "";
   display: table;
@@ -37,4 +36,3 @@ body {
   text-align: center;
   background-color: #f1f1f1;
 }
-</style>
